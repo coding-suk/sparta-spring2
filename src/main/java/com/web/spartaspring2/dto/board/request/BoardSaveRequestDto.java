@@ -1,13 +1,10 @@
-package com.web.spartaspring2.dto;
+package com.web.spartaspring2.dto.board.request;
 
 import lombok.Getter;
-
-import java.time.LocalDateTime;
 
 @Getter
 public class BoardSaveRequestDto {
 
-    private Long id;
     private String title;
     private String contents;
 

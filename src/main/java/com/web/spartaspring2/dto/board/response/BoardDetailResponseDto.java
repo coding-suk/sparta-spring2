@@ -1,4 +1,4 @@
-package com.web.spartaspring2.dto;
+package com.web.spartaspring2.dto.board.response;
 
 import lombok.Getter;
 
